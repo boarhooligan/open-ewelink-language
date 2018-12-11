@@ -1012,7 +1012,7 @@
   "SCENE_ADD_CONDITION_TEXT": "Добавить",
   "SCENE_ADD_IMMEDIATE_EXECUTION": "Запустить сейчас",
   "SCENE_ADD_CONDITION_HEAD_TITLE": "If",
-  "WHEN_MEET": "Condition",
+  "WHEN_MEET": "Состояние",
   "MINUTE_LOWERCASE": "min",
   "duration_cycle": "Cycle :",
   "LOGOUT_APP_ALERT": "No history data will be deleted after logging out. You can still use this account for the next login.",
