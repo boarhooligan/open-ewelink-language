@@ -585,7 +585,7 @@
   "temperature_setting": "Настройки температуры",
   "more": "＞",
   "less": "＜",
-  "device_info_not_be_empty": "Имя устройства и ipi key не могут быть пустыми!",
+  "device_info_not_be_empty": "Имя устройства и ipi ключ не могут быть пустыми!",
   "add_device_failed": "Ошибка добавления устройства! ",
   "find_mode_failed": "Ошибка поиска модели!",
   "log": "Лог",
