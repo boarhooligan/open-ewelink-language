@@ -684,7 +684,7 @@
   "record": "Записать видео",
   "remoteplayback_capture_fail_for_memory": "Failed to capture screenshot due to limited storage space",
   "already_saved_to_volume": "Сохранить в галерею",
-  "remoteplayback_record_fail": "Failed to record",
+  "remoteplayback_record_fail": "Запись не удалась",
   "realplay_set_vediomode_fail": "Failed to switch video quality mode",
   "ez_event_message_detail": "Детали сообщения",
   "from": "Источник",
